@@ -7,5 +7,10 @@ Eu sou Cilas Santos, estou constantemente aprendendo e criando projetos utilizan
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<br>
+<br>
+<h1>Segue imagens de alguns dos trabalhos desenvolvidos</h1>
 
-[![Cilas stats](https://github-readme-stats.vercel.app/api?username=Cilasdev)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/Cilasdev/Easy-Shopping/3512a490f18782b775b5795929d54b0cee3506b1/img/Clima%20no%20mundo.jpg"/>
+<img src="https://github.com/Cilasdev/Easy-Shopping/raw/master/img/Easy%20shop%20desktop.jpg?raw=true"/>
+<img src="https://github.com/Cilasdev/Easy-Shopping/blob/master/img/Site%20da%20apple.jpg?raw=true"/>

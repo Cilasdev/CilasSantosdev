@@ -1,5 +1,5 @@
 # Olá!:sunglasses:
-Eu sou Cilas Santos, estou constantemente aprendendo e criando projetos utilizando:
+Eu sou Cilas Santos, Sou programador Front End, tenho paixão por tecnologia, estou constantemente aprendendo e criando projetos utilizando:
 <br/>
 <br/>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
